@@ -1,4 +1,3 @@
-````markdown
 # MLOps Project 1
 
 Projekt wykonany w ramach zajęć z Narzędzi Uczenia Maszynowego / MLOps.
@@ -181,7 +180,7 @@ Podczas realizacji projektu pojawiły się m.in. następujące problemy:
 
 ## Autorzy
 
-Projekt został wykonany w duecie w ramach zajęć laboratoryjnych.
+Paweł Kierkosz 155995, Bartłomiej Rudowicz 155993
 
 ## Cel projektu
 
