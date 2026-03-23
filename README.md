@@ -179,7 +179,7 @@ Podczas realizacji projektu pojawiły się m.in. następujące problemy:
 
 ## Autorzy
 
-Paweł Kierkosz 155995, Bartłomiej Rudowicz 155993
+Paweł Kierkosz (155995), Bartłomiej Rudowicz (155993)
 
 ## Cel projektu
 
