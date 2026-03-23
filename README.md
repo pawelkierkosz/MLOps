@@ -44,7 +44,6 @@ Optymalizator:
 ```text
 MLOps_Project1/
 │
-├── data/
 ├── mlruns/
 ├── src/
 │   ├── config.py
